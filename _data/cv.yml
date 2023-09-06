@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nicolas Godron
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th December 1998
     - name: Languages
-      value: English, German
+      value: French, English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Pharmacy Doctorate (PharmD)
+      institution: University of Paris Cité
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Masters level - Very Good Honors.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Genomics, Informatics and Mathematics for Health and Environment (MSc)
+      institution: University of Evry - Paris Saclay
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Advanced Genomics.
+        - Advanced Programming.
+        - Data Science.
+        - Algorithmics and metaheuristics.
 
 - title: Experience
   type: time_table
@@ -82,16 +83,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Genomics.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Association studies.
+        - Microbial Genomics.
+    - title: Biodiversity.
       items:
-        - Description 1.
-        - Description 2.
+        - Extinctions.
+        - Link with human health.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Chess, Guitar, etc.
