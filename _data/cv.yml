@@ -34,8 +34,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Masters internship
-      institution: Infection, Antimicrobials, Modelling, Evolution (IAME) laboratory
+    - title: Research Masters internships (4 and 6 months)
+      institution: Infection, Antimicrobials, Modelling, Evolution (IAME) laboratory, Inserm UMR_1137
       year: 2022-2023
       description:
         - Exploratory study of _Mycobacterium tuberculosis_ genomic determinants of its clinical form in humans.
@@ -75,7 +75,7 @@
   contents:
     - year: 2023
       items: 
-        - D4GEN Hackathon [1st Prize](https://www.evry-senart-innovation.fr/publications/hackathon-d4gen-48h-chrono-pour-produire-un-outil-numerique-utile-aux-sciences-du-vivant/) as Team Leader of PreExtinction
+        - D4GEN Hackathon "[1st Prize](https://www.evry-senart-innovation.fr/publications/hackathon-d4gen-48h-chrono-pour-produire-un-outil-numerique-utile-aux-sciences-du-vivant/)" as Team Leader of PreExtinction
 
 
 - title: Academic Interests
