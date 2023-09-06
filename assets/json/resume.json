@@ -1,61 +1,105 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nicolas Godron",
+    "label": "Pharmacist, Bioinformatics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nicolas.godron {a} gmail.comm",
+    "phone": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "n-godron",
+        "url": "https://www.linkedin.com/in/n-godron/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Infection, Antimicrobials, Modelling, Evolution",
+      "position": "Research Masters internship",
+      "url": "https://www.iame-research.center/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Exploratory study of _Mycobacterium tuberculosis_ genomic determinants of its clinical form in humans.",
       "highlights": [
-        "Relativity"
+        "Microbial genomics",
+        "Genome-Wide Association Study",
+        "Genetic Algorithm",
+        "Classification trees"
+      ]
+    },
+    {
+      "name": "AP-HP Saint-Louis Hospital",
+      "position": "5-month internship",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Clinical assesment of eligibility for innovative (antiviral, repurposed, and chemo- therapies) and blood-derived drugs. Urinary proteins electrophoresis project.",
+      "highlights": [
+        "Hospital Pharmacy",
+        "Innovative medication",
+        "Blood-derived medication",
+        "Biochemistry"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "name": "PreExtinction",
+      "position": "Founder and president",
+      "url": "https://www.linkedin.com/company/94288102",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "We intend to produce accurate ML models to help predict and prevent future extinctions of species.",
+      "highlights": [
+        "Machine Learning",
+        "Biodiversity",
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "University of Paris Cité",
+      "url": "",
+      "area": "Pharmacy",
+      "studyType": "PharmD",
+      "startDate": "2017",
+      "endDate": "2023",
+      "score": "Masters level: Very Good Honors",
       "courses": [
-        "Theory of Relativity"
+        ""
+      ]
+    }
+        {
+      "institution": "University of Evry - Paris Saclay",
+      "url": "https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology/m2-genomics-informatics-and-mathematics-health-and-environment",
+      "area": "Genomics, Informatics and Mathematics for Health and Environment",
+      "studyType": "MSc",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": "Masters level: Very Good Honors",
+      "courses": [
+        "Advanced Genomics",
+        "Advanced Programming",
+        "Data Science",
+        "Algorithmics and metaheuristics"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "D4GEN Hackathon - 1st Prize",
+      "date": "2023",
+      "awarder": "Génopole",
+      "summary": "In a weekend's time with three friends, we collected data (IUCN RedList, GBIF, Meteorological), and built a model able to predict species extinction status with 80% accuracy."
     }
   ],
   "certificates": [],
@@ -63,15 +107,22 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [],
+  "interests": [
+    "Chess",
+    "Guitar"
+  ],
   "references": [],
   "projects": []
 }
