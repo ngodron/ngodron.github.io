@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ngodron
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ngodron/SNPs_and_clones
+  - ngodron/RNA_folding
+  - h-escoffier/Sepsis_CNNect
+  - davidfdr99/PreExtinction

@@ -13,7 +13,7 @@
   contents:
     - title: Pharmacy Doctorate (PharmD)
       institution: University of Paris Cité
-      year: 2023
+      year: 2017-2023
       description:
         - Education in pharmaceutical, chemical and biological sciences.
         - Masters level - Very Good Honors.
@@ -23,10 +23,13 @@
       institution: University of Evry - Paris Saclay
       year: 2023
       description:
-        - Advanced Genomics.
-        - Advanced Programming.
-        - Data Science.
-        - Algorithmics and metaheuristics.
+        - Very Good Honors.
+        - title: Courses
+          contents:
+            - Advanced Genomics.
+            - Advanced Programming.
+            - Data Science.
+            - Algorithmics and metaheuristics.
 
 - title: Experience
   type: time_table
@@ -47,37 +50,32 @@
         - Clinical assesment of eligibility for innovative (antiviral, repurposed, and chemo- therapies) and blood-derived drugs.
         - Urinary proteins electrophoresis project.
 
-- title: Tutoring
+- title: Tutoring and associations
   type: time_table
   contents:
-    - title: Informatics
-      year: 2020
-
-    - title: English
-      year: 2017-2018
-
-- title: Associations
-  type: time_table
-  contents:
-    - title: Founder, President
-      institution: PreExtinction
+    - title: Founder and President of PreExtinction
       year: 2023
       description:
         - Accurate Machine Learning models to help predict and prevent future extinctions of species.
 
-    - title: President
-      institution: LaboPhotoPPV
+    - title: Informatics tutoring
+      year: 2020
+
+    - title: President of LaboPhotoPPV
       year: 2018-2019
       description:
         - Photography association of the Paris pharmacy faculty.
 
+    - title: English tutoring
+      year: 2017-2018
 
-- title: Honors and Awards
+
+- title: Awards
   type: time_table
   contents:
     - year: 2023
       items: 
-        - D4GEN Hackathon 1st Prize as Team Leader of PreExtinction
+        - [D4GEN Hackathon 1st Prize](https://www.evry-senart-innovation.fr/publications/hackathon-d4gen-48h-chrono-pour-produire-un-outil-numerique-utile-aux-sciences-du-vivant/) as Team Leader of PreExtinction
 
 
 - title: Academic Interests
