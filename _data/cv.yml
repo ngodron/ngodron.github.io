@@ -73,11 +73,10 @@
 - title: Awards
   type: time_table
   contents:
-    - year: 2023
-      items: 
-        - D4GEN Hackathon "[1st Prize](https://www.evry-senart-innovation.fr/publications/hackathon-d4gen-48h-chrono-pour-produire-un-outil-numerique-utile-aux-sciences-du-vivant/)" as Team Leader of PreExtinction
-        contents:
-          - For our proof-of-concept, we collected IUCN, GBIF and meteorogical data and built a Machine Learning (XGBoost) model to predict _Mollusca_ extinction status with 80% accuracy, in 48h total!
+    - title: D4GEN Hackathon as Team Leader of PreExtinction
+      year: 2023
+      description:
+          - For this proof-of-concept, we collected IUCN, GBIF and meteorogical data and built a Machine Learning (XGBoost) model to predict _Mollusca_ extinction status with 80% accuracy, all in 48 hours!
 
 
 - title: Academic Interests
@@ -90,7 +89,7 @@
     - title: Biodiversity.
       items:
         - Extinctions.
-        - Link with human health.
+        - Impact on human health.
 
 - title: Other Interests
   type: list
