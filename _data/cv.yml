@@ -15,14 +15,14 @@
       institution: University Paris Cité, Conservatoire National des Arts et Métiers
       year: 2024-ongoing
       description:
-        Developing a metagenomics–driven framework for assessing the risk of emergence of environmental antibiotic resistance genes in human-pathogenic bacteria
+        - Developing a metagenomics–driven framework for assessing the risk of emergence of environmental antibiotic resistance genes in human-pathogenic bacteria
 
 
     - title: Pharmacy Doctorate (PharmD)
       institution: University Paris Cité
       year: 2017-2023
       description:
-        Very Good Honors
+        - Very Good Honors
         - Education in pharmaceutical, chemical and biological sciences
 
 
@@ -30,7 +30,7 @@
       institution: University of Evry - Paris Saclay
       year: 2023
       description:
-        Very Good Honors
+        - Very Good Honors
         - title: Courses
           contents:
             - Advanced Genomics
@@ -64,9 +64,10 @@
     - title: President (2026) and VP (2025) of Bichat Young Researchers Association
       year: 2025-2026
       description:
-        The Bichat Young Researchers Association brings together young researchers from four Inserm labs (CRI, IAME, LVTS, Oral Health), to foster good working conditions and relations among early-career peers.
-        - Yearly scientific conference organization
-        - Quarterly social events
+        - The Bichat Young Researchers Association brings together young researchers from four Inserm labs (CRI, IAME, LVTS, Oral Health), to foster good working conditions and relations among early-career peers.
+        contents:
+          - Yearly scientific conference organization
+          - Quarterly social events
 
     - title: Informatics tutoring
       year: 2020
