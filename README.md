@@ -6,13 +6,16 @@
 
 ./_bibliography/papers.bib # To update papers
 ./_data/cv.yml             # All content for the cv page
-./_data/repositories.yml   # Repositories to highlight
+       /repositories.yml   # Repositories to highlight
 ./_pages/*                 # Content for most pages
 ./blog/index.html          # Blog page doing its own thing
 ```
 
 ## Tips
-To make a page visible / hidden in navbar, set the nav parameter to true / false in the YAML (?) header of .md files.
+- To make a page visible / hidden in navbar, set the nav parameter to true / false in the YAML (?) header of .md files.
+
+
+___
 
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
