@@ -65,9 +65,9 @@
       year: 2025-2026
       description:
         - The Bichat Young Researchers Association brings together young researchers from four Inserm labs (CRI, IAME, LVTS, Oral Health), to foster good working conditions and relations among early-career peers.
-        contents:
-          - Yearly scientific conference organization
-          - Quarterly social events
+        
+        - Yearly scientific conference organization
+        - Quarterly social events
 
     - title: Informatics tutoring
       year: 2020
