@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD student in Microbiology (PharmD)
-      institution: University Paris Cité
+      institution: University Paris Cité, Conservatoire National des Arts et Métiers
       year: 2024-ongoing
       description:
         Developing a metagenomics–driven framework for assessing the risk of emergence of environmental antibiotic resistance genes in human-pathogenic bacteria
@@ -22,15 +22,15 @@
       institution: University Paris Cité
       year: 2017-2023
       description:
+        Very Good Honors
         - Education in pharmaceutical, chemical and biological sciences
-        - Masters level - Very Good Honors
 
 
     - title: Genomics, Informatics and Mathematics for Health and Environment (MSc)
       institution: University of Evry - Paris Saclay
       year: 2023
       description:
-        - Very Good Honors
+        Very Good Honors
         - title: Courses
           contents:
             - Advanced Genomics
@@ -43,7 +43,7 @@
   type: time_table
   contents:
     - title: Research Masters internships (4 and 6 months)
-      institution: Infection, Antimicrobials, Modelling, Evolution (IAME) laboratory, Inserm UMR_1137
+      institution: Infection, Antimicrobials, Modelling, Evolution (IAME) laboratory, Inserm UMR1137
       year: 2022-2023
       description:
         - Exploratory study of _Mycobacterium tuberculosis_ genomic determinants of its clinical form in humans.
@@ -56,15 +56,17 @@
       year: 2021-2022
       description:
         - Clinical assesment of eligibility for innovative (antiviral, repurposed, and chemo- therapies) and blood-derived drugs
-        - Urinary proteins electrophoresis project
+        - Urinary proteins electrophoresis
 
 - title: Tutoring and associations
   type: time_table
   contents:
-    - title: Founder and President of PreExtinction
-      year: 2023
+    - title: President (2026) and VP (2025) of Bichat Young Researchers Association
+      year: 2025-2026
       description:
-        - Our aim is to help predict and prevent future extinctions of species.
+        Among four Inserm mixed research units (UMRs)
+        - Yearly scientific conference organization
+        - Quarterly social events
 
     - title: Informatics tutoring
       year: 2020
@@ -72,7 +74,7 @@
     - title: President of LaboPhotoPPV
       year: 2018-2019
       description:
-        - Photography association of the pharmacy faculty of Paris.
+        - Photography association of the pharmacy faculty of Paris
 
     - title: English tutoring
       year: 2017-2018
