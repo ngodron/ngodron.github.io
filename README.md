@@ -1,3 +1,19 @@
+# Useful info
+
+## Important paths
+```
+./_config.yml              # Most (i.e. not all) parameters can be modified here
+
+./_bibliography/papers.bib # To update papers
+./_data/cv.yml             # All content for the cv page
+./_data/repositories.yml   # Repositories to highlight
+./_pages/*                 # Content for most pages
+./blog/index.html          # Blog page doing its own thing
+```
+
+## Tips
+To make a page visible in navbar,
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
@@ -20,6 +36,11 @@ A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academ
 If you like the theme, give it a star!
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+
+
+<!-- Collapses all instructions (TLTR) -->
+<details>
+<summary>al-folio detailed stuff</summary>
 
 ## User community
 
@@ -651,6 +672,8 @@ Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
 For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+
+</details>
 
 ### Maintainers
 
