@@ -12,7 +12,7 @@
 ```
 
 ## Tips
-To make a page visible in navbar,
+To make a page visible / hidden in navbar, set the nav parameter to true / false in the YAML (?) header of .md files.
 
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
