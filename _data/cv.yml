@@ -6,30 +6,38 @@
     - name: Date of Birth
       value: 13th December 1998
     - name: Languages
-      value: French, English, Spanish
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
+    - title: PhD student in Microbiology (PharmD)
+      institution: University Paris Cité
+      year: 2024-ongoing
+      description:
+        Developing a metagenomics–driven framework for assessing the risk of emergence of environmental antibiotic resistance genes in human-pathogenic bacteria
+
+
     - title: Pharmacy Doctorate (PharmD)
-      institution: University of Paris Cité
+      institution: University Paris Cité
       year: 2017-2023
       description:
-        - Education in pharmaceutical, chemical and biological sciences.
-        - Masters level - Very Good Honors.
+        - Education in pharmaceutical, chemical and biological sciences
+        - Masters level - Very Good Honors
 
 
     - title: Genomics, Informatics and Mathematics for Health and Environment (MSc)
       institution: University of Evry - Paris Saclay
       year: 2023
       description:
-        - Very Good Honors.
+        - Very Good Honors
         - title: Courses
           contents:
-            - Advanced Genomics.
-            - Advanced Programming.
-            - Data Science.
-            - Algorithmics and metaheuristics.
+            - Advanced Genomics
+            - Advanced Programming
+            - High Performance Computing
+            - Data Science
+            - Algorithmics and metaheuristics
 
 - title: Experience
   type: time_table
@@ -47,8 +55,8 @@
       institution: AP-HP Saint-Louis Hospital
       year: 2021-2022
       description:
-        - Clinical assesment of eligibility for innovative (antiviral, repurposed, and chemo- therapies) and blood-derived drugs.
-        - Urinary proteins electrophoresis project.
+        - Clinical assesment of eligibility for innovative (antiviral, repurposed, and chemo- therapies) and blood-derived drugs
+        - Urinary proteins electrophoresis project
 
 - title: Tutoring and associations
   type: time_table
