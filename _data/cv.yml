@@ -33,10 +33,10 @@
         - Very Good Honors
         - title: Courses
           contents:
-            - Advanced Genomics
-            - Advanced Programming
-            - High Performance Computing
-            - Data Science
+            - Advanced genomics & transcriptomics
+            - Systems biology
+            - High performance computing (HPC)
+            - Data science
             - Algorithmics and metaheuristics
 
 - title: Experience
@@ -46,7 +46,7 @@
       institution: Infection, Antimicrobials, Modelling, Evolution (IAME) laboratory, Inserm UMR1137
       year: 2022-2023
       description:
-        - Exploratory study of _Mycobacterium tuberculosis_ genomic determinants of its clinical form in humans.
+        - Exploratory study of genomic determinants of Mycobacterium tuberculosis and their impact on clinical presentation.
         - title: Projects
           contents:
             - Docker implementation of 4 Genomic-Wide Association (GWA) tools.
