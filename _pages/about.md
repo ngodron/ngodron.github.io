@@ -11,6 +11,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a pharmacy student, specializing in genomics and bioinformatics.
-My fields of expertise are microbial genomics, in particular analyzing distant horizontal transfers of antibiotic-resistance genes, and less recently _Mycobacterium tuberculosis_ and Genome-Wide Association Studies.
+Hi! I am a pharmacist, currently PhD student in Microbiology, specializing in (meta)genomics.
+I work mainly on distant horizontal transfers of antibiotic-resistance genes, and also on _Mycobacterium tuberculosis_ and microbial Genome-Wide Association Studies.
 
