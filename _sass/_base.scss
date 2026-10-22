@@ -1034,3 +1034,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.preview img {
+  image-rendering: pixelated;
+}
