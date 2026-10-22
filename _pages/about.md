@@ -11,6 +11,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a pharmacist, currently PhD student in Bacteriology, specializing in genomics and bioinformatics.
-My thesis work is on distant horizontal transfers of antibiotic-resistance genes, I have worked on _Mycobacterium tuberculosis_ and (microbial) Genome-Wide Association Studies in the past.
+Hi! I am a pharmacist, currently pursuing a PhD in Bacteriology, with a specialty in genomics and bioinformatics.
+My PhD thesis is on distant horizontal transfers of antibiotic-resistance genes. I have worked on _Mycobacterium tuberculosis_ and (microbial) Genome-Wide Association Studies in the past.
 

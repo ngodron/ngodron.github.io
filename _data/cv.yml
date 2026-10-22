@@ -84,10 +84,10 @@
 - title: Awards
   type: time_table
   contents:
-    - title: D4GEN Hackathon as Team Leader of PreExtinction
+    - title: D4GEN Hackathon 1st Prize (Team Leader)
       year: 2023
       description:
-          - For this proof-of-concept, we collected IUCN, GBIF and meteorogical data and built a Machine Learning (XGBoost) model to predict Mollusca extinction status with 80% accuracy, all in 48 hours!
+          - PreExtinction (proof-of-concept): we collected IUCN, GBIF and meteorogical data and built a Machine Learning (XGBoost) model to predict Mollusca extinction status with 80% accuracy, all in 48 hours!
 
 
 - title: Academic Interests
